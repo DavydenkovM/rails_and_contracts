@@ -1,0 +1,12 @@
+table
+  thead
+    tr
+      th Account
+      th Balance
+      th Bonus points
+  tbody
+    = render partial: 'account', collection: Account.all
+
+br
+
+= render 'form'
