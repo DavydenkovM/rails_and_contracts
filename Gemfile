@@ -21,8 +21,11 @@ gem 'slim'
 gem 'slim-rails'
 gem 'draper'
 
-# for contexts role map
+# contracts
 gem 'contracts'
+gem 'yard'
+gem 'yard-contracts'
+
 
 group :development, :test do
   gem 'byebug'

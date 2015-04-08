@@ -1,0 +1,8 @@
+app/models/user.rb 51167482fe34649d7eaa0d6c63ad7551610de906
+app/models/account.rb 52d481aa11c9ff16a31b77500d99c772974d4306
+app/models/users/admin_user.rb 47e8e3e33aed82eb4003d88db782af3a023aea4c
+app/models/users/regular_user.rb fb67f3cf9c94dfbcbaef0c44a01c3229549fbc97
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/services/money_transfering.rb 598b04a021d36cb904af762f78c5bb6b924ab6dd
+app/controllers/transfers_controller.rb 4dc1914f0807572c1d9d21e7405a9127f55fba19
+app/controllers/application_controller.rb 077110b25ba7451afbbe3ab7b9a8841d942916a5

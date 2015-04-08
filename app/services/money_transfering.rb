@@ -18,8 +18,9 @@ class MoneyTransfering
     notify_admin(admin)
   end
 
-  protected
-
+  # qwe qwe qwe 
+  #
+  # @param amount Text here
   Contract Num => Any
   def transfer_money(amount)
     source.balance -= amount
